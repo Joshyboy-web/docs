@@ -12,12 +12,7 @@
     "tabs": [
       {
         "tab": "Handbook",
-        "groups": [
-          {
-            "group": "Main",
-            "pages": ["handbook/training"]
-          }
-        ]
+        "pages": ["index", "handbook/training"]
       }
     ],
     "global": {
